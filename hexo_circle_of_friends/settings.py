@@ -105,10 +105,10 @@ GITEE_FRIENDS_LINKS={
 
 # get links from github
 GITHUB_FRIENDS_LINKS = {
-    "enable": False,    # True 开启github issue兼容
+    "enable": true,    # True 开启github issue兼容
     "type": "normal",  # volantis用户请在这里填写 volantis
-    "owner": "ccknbc-actions",  # 填写你的github用户名
-    "repo": "blogroll",  # 填写你的github仓库名
+    "owner": "RongkangXiong",  # 填写你的github用户名
+    "repo": "RongkangXiong.github.io",  # 填写你的github仓库名
     "state": "open"  # 填写抓取的issue状态(open/closed)
 }
 
