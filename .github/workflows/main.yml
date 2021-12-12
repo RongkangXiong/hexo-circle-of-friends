@@ -32,3 +32,5 @@ jobs:
       working-directory: ./hexo_circle_of_friends
       run: | 
         python run.py ${{ secrets.APPID }} ${{ secrets.APPKEY }} ${{ secrets.LINK }}
+        
+        
