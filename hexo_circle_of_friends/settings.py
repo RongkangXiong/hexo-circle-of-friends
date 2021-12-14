@@ -105,7 +105,7 @@ GITEE_FRIENDS_LINKS={
 
 # get links from github
 GITHUB_FRIENDS_LINKS = {
-    "enable": true,    # True 开启github issue兼容
+    "enable": True,    # True 开启github issue兼容
     "type": "normal",  # volantis用户请在这里填写 volantis
     "owner": "RongkangXiong",  # 填写你的github用户名
     "repo": "RongkangXiong.github.io",  # 填写你的github仓库名
